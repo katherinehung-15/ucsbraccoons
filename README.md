@@ -4,7 +4,7 @@
 
 To get your raccoon photos posted to our website, fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScyYq007R7xrO8xYOIY1na7PEoYa1ejm--bjTtZvgeA_fTpow/viewform?usp=header).
 
-![wewantyou](/assets/images/wewantyou.png)
+![Raccoon saying "We Want You!"](https://katherinehung-15.com/assets/images/wewantyou.png)
 
 ### More about the project:
 We're 6 UCSB students in the Data Science Collaborative who wanted to dedicate time to a fun project that would help us develop our skills.
